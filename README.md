@@ -8,11 +8,11 @@
 
 
 ## **Introduction:**
-#### AdventureWorks Database is a Microsoft product sample for an online transaction processing (OLTP) database. The AdventureWorks Database supports a fictitious, multinational manufacturing company called AdventureWorks Cycles.
+AdventureWorks Database is a Microsoft product sample for an online transaction processing (OLTP) database. The AdventureWorks Database supports a fictitious, multinational manufacturing company called AdventureWorks Cycles.
 
 ## **Methodology:**
-#### The data was cleaned and specific it to the small target to analyse.
-#### Starting with some important analytic numbers that show AdventureWorks company:
+The data was cleaned and specific it to the small target to analyse.
+Starting with some important analytic numbers that show AdventureWorks company:
 1. Number of orders
 2. Total SubTotal
 3. Total Tax
@@ -23,4 +23,10 @@
 
 ![bysh](https://user-images.githubusercontent.com/65326291/132260414-20e698ca-16d7-454c-a9a8-7023403bb79d.png)
 
-#### That explain all ship methods were sufficient to deliver all orders.
+That explain all ship methods were sufficient to deliver all orders.
+
+#### **Number of online - offline orders:**
+
+![byon](https://user-images.githubusercontent.com/65326291/132260729-bbfd54c0-4a19-4e81-b3bc-58648956eb58.png)
+
+This chart shows that the company had highly online orders until 2012 by (87.9%). Unlike offline orders in the same year (12.1%).So, the company increased its ship methods to cover all that online orders that were explained in the previous chart.

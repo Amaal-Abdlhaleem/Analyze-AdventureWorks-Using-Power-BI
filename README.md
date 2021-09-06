@@ -33,10 +33,28 @@ This chart shows that the company had highly online orders until 2012 by (87.9%)
 
 ### **Number of orders by status:**
 
-![bystatus](https://user-images.githubusercontent.com/65326291/132260859-761f02ea-159f-4708-8100-f91862161f78.png)
+![bys](https://user-images.githubusercontent.com/65326291/132260990-387ee3bb-71d2-4140-b335-d54268ce3a2c.png)
 
 The order status has many stages such as: (In process-Approved-Backordered-Rejected-Shipped-Cancelled). All orders in the company until 2012 were shipped successfully.
 
 ### **Top 10 Sales Person with number of orders and total subtotal achievements:**
 
 ![ad6](https://user-images.githubusercontent.com/65326291/132260867-4f44df78-0548-4353-a5b7-19c469b84b72.png)
+
+### **Number of orders by Category, Sub Category, Product:**
+
+![ad7](https://user-images.githubusercontent.com/65326291/132261001-95aaba35-ce57-43d3-a525-f493ae7db780.png)
+
+It shows the products for each category with its number of orders. This helps us to know top product sales.
+
+### **Number of orders and total due by territory:**
+
+This shows that the number of orders with total due was spread in North America, Europe and Australia.
+
+### **Number of orders by order date, ship date and due date:**
+
+It shows that orders came to increase in 2007. For more details about each order and its dates we use the tooltip page.
+
+## **Resources:**
+
+[AdventureWorks sample database](https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms).

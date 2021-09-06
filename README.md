@@ -19,14 +19,24 @@ Starting with some important analytic numbers that show AdventureWorks company:
 4. Total Freight
 5. Total Due
 
-#### **Number of orders by Ship Method:**
+### **Number of orders by Ship Method:**
 
 ![bysh](https://user-images.githubusercontent.com/65326291/132260414-20e698ca-16d7-454c-a9a8-7023403bb79d.png)
 
 That explain all ship methods were sufficient to deliver all orders.
 
-#### **Number of online - offline orders:**
+### **Number of online - offline orders:**
 
 ![byon](https://user-images.githubusercontent.com/65326291/132260729-bbfd54c0-4a19-4e81-b3bc-58648956eb58.png)
 
 This chart shows that the company had highly online orders until 2012 by (87.9%). Unlike offline orders in the same year (12.1%).So, the company increased its ship methods to cover all that online orders that were explained in the previous chart.
+
+### **Number of orders by status:**
+
+![bystatus](https://user-images.githubusercontent.com/65326291/132260859-761f02ea-159f-4708-8100-f91862161f78.png)
+
+The order status has many stages such as: (In process-Approved-Backordered-Rejected-Shipped-Cancelled). All orders in the company until 2012 were shipped successfully.
+
+### **Top 10 Sales Person with number of orders and total subtotal achievements:**
+
+![ad6](https://user-images.githubusercontent.com/65326291/132260867-4f44df78-0548-4353-a5b7-19c469b84b72.png)

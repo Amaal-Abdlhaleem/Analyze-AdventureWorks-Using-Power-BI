@@ -49,9 +49,13 @@ It shows the products for each category with its number of orders. This helps us
 
 ### **Number of orders and total due by territory:**
 
+![te](https://user-images.githubusercontent.com/65326291/132261217-335bb248-2b6d-4bbc-9d28-52ddaaff9550.png)
+
 This shows that the number of orders with total due was spread in North America, Europe and Australia.
 
 ### **Number of orders by order date, ship date and due date:**
+
+![ad8](https://user-images.githubusercontent.com/65326291/132261226-7747c743-3806-4b30-901f-fd50c050c585.jpg)
 
 It shows that orders came to increase in 2007. For more details about each order and its dates we use the tooltip page.
 
